@@ -42,7 +42,10 @@
       "groups": [
         {
           "groupName": "Basic",
-          "list": [
+          "list": [{
+            "path": "/hello-world",
+            "title": "HelloWorld"
+          },
             {
               "path": "/layout",
               "title": "Layout 布局"
